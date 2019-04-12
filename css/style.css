@@ -134,7 +134,7 @@ nav h3 {
 	color: white;
 }
 
-nav li:active {
+nav li:active { 
 	background-color: rgb(230, 177, 78);
 	color: white;
 }
